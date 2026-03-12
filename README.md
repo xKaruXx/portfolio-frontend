@@ -1,107 +1,81 @@
-# Carlos "Charly" Salini | Portfolio
+# Carlos "Charly" Salini
 
-Bilingual portfolio website for Carlos "Charly" Salini, Senior Technology Leader focused on AI, automation and software architecture.
+**Senior Technology Leader | AI & Automation Expert**
 
-Portfolio web bilingue de Carlos "Charly" Salini, Senior Technology Leader enfocado en IA, automatizacion y arquitectura de software.
+Lider de Tecnologia con mas de 8 anos de experiencia transformando procesos de negocio mediante Inteligencia Artificial, automatizacion y arquitectura de software.
 
-## English
+Technology leader with 8+ years of experience transforming business processes through Artificial Intelligence, automation and software architecture.
 
-### Overview
+## Perfil / Profile
 
-This repository contains a premium dark-mode portfolio built as a single-file frontend.
+Carlos "Charly" Salini lidera iniciativas de software, automatizacion y diseno de sistemas con una mirada tecnica, analitica y orientada a ejecucion.
 
-It highlights:
+Carlos "Charly" Salini leads software, automation and systems design initiatives with a technical, analytical and execution-driven mindset.
 
-- Leadership in software, AI and automation
-- Featured projects for sales and content automation
-- Professional experience and education
-- Technical skills hub
-- Contact section with social links
-- Language switcher for Spanish and English
+Hoy combina liderazgo de equipos, arquitectura de software y soluciones de IA aplicadas a ventas, marketing y operaciones digitales.
 
-### Tech Stack
+Today he combines team leadership, software architecture and AI-driven solutions for sales, marketing and digital operations.
 
-- React 18 via ESM import
-- Tailwind CSS via CDN
-- Framer Motion
-- Lucide React
-- Single entry file: `index.html`
+## Especialidad / Focus
 
-### Project Structure
+- AI & Automation: estrategia e implementacion de agentes autonomos, copilots y flujos en n8n.
+- Software Engineering: desarrollo full-stack robusto con PHP, SQL y JavaScript.
+- Tech Leadership: gestion de equipos multidisciplinarios y direccion tecnica con foco en impacto real.
+- Growth Systems: automatizacion comercial y operativa para revenue, contenido y escalabilidad.
 
-```text
-.
-|-- index.html
-`-- README.md
-```
+- AI & Automation: strategy and implementation of autonomous agents, copilots and n8n workflows.
+- Software Engineering: robust full-stack development with PHP, SQL and JavaScript.
+- Tech Leadership: cross-functional team management and technical direction focused on real impact.
+- Growth Systems: commercial and operational automation for revenue, content and scale.
 
-### Local Preview
+## Proyectos Destacados / Featured Projects
 
-You can open `index.html` directly, but a local server is recommended.
+### AI Conversational Sales Agent
 
-```bash
-python -m http.server 4173
-```
+Agente de ventas para WhatsApp conectado con n8n, OpenAI y Mercado Pago API para responder, calificar, cobrar y escalar conversaciones con contexto.
 
-Then open:
+Sales agent for WhatsApp connected to n8n, OpenAI and Mercado Pago API to reply, qualify, charge and escalate conversations with context.
 
-```text
-http://127.0.0.1:4173
-```
+### Autonomous Content Pipeline
 
-### Notes
+Ecosistema que planifica, genera, valida y publica contenido en redes sociales de forma 100% automatizada con IA.
 
-- The portfolio is intentionally implemented in one functional file.
-- Content and UI copy are handled in Spanish and English inside the same document.
-- The language toggle updates visible content and document metadata.
+Ecosystem that plans, generates, validates and publishes social media content through a fully automated AI pipeline.
 
-## Espanol
+## Experiencia / Experience
 
-### Descripcion
+### Coradir S.A.
 
-Este repositorio contiene un portfolio premium en dark mode construido como un frontend de archivo unico.
+**Gerente de Area de Software y Diseno**
 
-Incluye:
+Conduccion tecnica y estrategica de equipos, productos y procesos digitales con foco en continuidad operativa, ejecucion y evolucion de sistemas.
 
-- Liderazgo en software, IA y automatizacion
-- Proyectos destacados para automatizacion de ventas y contenido
-- Experiencia profesional y educacion
-- Hub visual de habilidades tecnicas
-- Seccion de contacto con enlaces sociales
-- Selector de idioma en espanol e ingles
+Technical and strategic leadership of teams, products and digital processes focused on operational continuity, execution and systems evolution.
 
-### Stack Tecnico
+### Nolapenses!
 
-- React 18 via import ESM
-- Tailwind CSS via CDN
-- Framer Motion
-- Lucide React
-- Archivo principal unico: `index.html`
+**Founder**
 
-### Estructura del Proyecto
+Diseno e implementacion de soluciones de automatizacion e IA enfocadas en ventas, marketing, contenido y growth systems.
 
-```text
-.
-|-- index.html
-`-- README.md
-```
+Design and implementation of automation and AI solutions focused on sales, marketing, content and growth systems.
 
-### Vista Local
+## Formacion / Education
 
-Se puede abrir `index.html` directamente, pero conviene usar un servidor local.
+- Diplomatura en IA - UBA
+- Ingenieria en Electronica - 3er ano
+- Certificacion Java
 
-```bash
-python -m http.server 4173
-```
+- AI Diploma Program - UBA
+- Electronic Engineering - 3rd year
+- Java Certification
 
-Luego abrir:
+## Stack Tecnico / Technical Stack
 
-```text
-http://127.0.0.1:4173
-```
+`PHP` `SQL` `MySQL` `JavaScript` `HTML5` `CSS3` `React` `Tailwind CSS` `n8n` `OpenAI API` `WordPress`
 
-### Notas
+## Este Repositorio / This Repository
 
-- El portfolio esta implementado intencionalmente en un solo archivo funcional.
-- El contenido y los textos de interfaz viven en espanol e ingles dentro del mismo documento.
-- El selector de idioma actualiza el contenido visible y los metadatos del documento.
+Este repositorio contiene el portfolio frontend de Charly en una sola `index.html`, con experiencia bilingue en espanol e ingles y una interfaz dark mode premium.
+
+This repository contains Charly's frontend portfolio in a single `index.html`, with a bilingual Spanish/English experience and a premium dark-mode interface.
